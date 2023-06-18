@@ -2407,3 +2407,25 @@ ModuleNotFoundError: No module named 'kubernetes'
 [2023-06-18T20:27:11.625+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:11.625+0200] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
 [2023-06-18T20:27:11.625+0200] {processor.py:770} WARNING - No viable dags retrieved from /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
 [2023-06-18T20:27:11.632+0200] {processor.py:178} INFO - Processing /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.019 seconds
+[2023-06-18T20:27:53.199+0200] {processor.py:156} INFO - Started process (PID=28231) to work on /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-06-18T20:27:53.210+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-06-18T20:27:53.211+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:53.211+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-06-18T20:27:53.219+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:53.219+0200] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-06-18T20:27:53.219+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:53.219+0200] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-06-18T20:27:53.219+0200] {processor.py:770} WARNING - No viable dags retrieved from /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-06-18T20:27:53.224+0200] {processor.py:178} INFO - Processing /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.027 seconds
+[2023-06-18T20:28:36.181+0200] {processor.py:156} INFO - Started process (PID=29176) to work on /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-06-18T20:28:36.192+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-06-18T20:28:36.192+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:28:36.192+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-06-18T20:28:36.201+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:28:36.201+0200] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-06-18T20:28:36.201+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:28:36.201+0200] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-06-18T20:28:36.201+0200] {processor.py:770} WARNING - No viable dags retrieved from /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-06-18T20:28:36.206+0200] {processor.py:178} INFO - Processing /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.028 seconds

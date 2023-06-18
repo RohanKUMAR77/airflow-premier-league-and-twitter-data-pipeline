@@ -1830,3 +1830,11 @@
 [2023-06-18T20:27:21.825+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:21.825+0200] {dag.py:2573} INFO - Sync 1 DAGs
 [2023-06-18T20:27:21.835+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:21.834+0200] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
 [2023-06-18T20:27:21.847+0200] {processor.py:178} INFO - Processing /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.067 seconds
+[2023-06-18T20:28:01.880+0200] {processor.py:156} INFO - Started process (PID=28242) to work on /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-06-18T20:28:01.881+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-06-18T20:28:01.882+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:28:01.881+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-06-18T20:28:01.925+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:28:01.925+0200] {example_python_operator.py:85} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-06-18T20:28:01.925+0200] {processor.py:768} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-06-18T20:28:01.936+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:28:01.936+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:28:01.946+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:28:01.946+0200] {dag.py:3324} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-06-18T20:28:01.961+0200] {processor.py:178} INFO - Processing /home/rohan/airflow_venv/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.084 seconds
