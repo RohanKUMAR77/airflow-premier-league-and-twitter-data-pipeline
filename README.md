@@ -3,7 +3,7 @@ BE CAREFUL TO MAKE THE DAG WORK YOU SHOULD UPLOAD YOUR JSON FILE IN THE FOLDER N
 this json looks like this (I didn't put mine for privacy) : 
 
 {
-  "username": "put_twitter-username",
+  "username": "put_twitter_username",
   "password": "put_twitter_password",
   "api_key": "api_key_of_Beta_footbal_rapidAPI",
   "api_host": "api_host_of_Beta_footbal_rapidAPI"
