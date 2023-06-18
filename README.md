@@ -8,6 +8,7 @@ this JSON file looks like this (I didn't put mine for privacy) :
   "api_key": "api_key_of_Beta_footbal_rapidAPI",
   "api_host": "api_host_of_Beta_footbal_rapidAPI"
 }
+
 NAME THE JSON FILE "LogPass.json".
 
 Then you are ready to run your Dag named "ProjectBDD.py" on Airflow.
