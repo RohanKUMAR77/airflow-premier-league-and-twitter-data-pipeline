@@ -1587,3 +1587,66 @@
 [2023-06-18T20:26:00.485+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:00.485+0200] {dag.py:2573} INFO - Sync 1 DAGs
 [2023-06-18T20:26:00.493+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:00.493+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
 [2023-06-18T20:26:00.515+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.302 seconds
+[2023-06-18T20:26:06.650+0200] {processor.py:156} INFO - Started process (PID=26200) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:06.651+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:26:06.652+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:06.651+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:06.928+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:06.935+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:06.935+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:26:06.943+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:06.943+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:26:06.958+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.311 seconds
+[2023-06-18T20:26:15.645+0200] {processor.py:156} INFO - Started process (PID=26306) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:15.646+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:26:15.647+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:15.647+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:15.901+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:15.907+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:15.907+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:26:15.916+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:15.916+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:26:15.938+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.295 seconds
+[2023-06-18T20:26:22.529+0200] {processor.py:156} INFO - Started process (PID=26315) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:22.530+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:26:22.531+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:22.531+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:22.776+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:22.783+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:22.782+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:26:22.792+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:22.792+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:26:22.814+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.287 seconds
+[2023-06-18T20:26:32.538+0200] {processor.py:156} INFO - Started process (PID=26757) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:32.538+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:26:32.539+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:32.539+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:32.808+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:32.816+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:32.816+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:26:32.825+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:32.824+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:26:32.847+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.311 seconds
+[2023-06-18T20:26:42.814+0200] {processor.py:156} INFO - Started process (PID=26870) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:42.827+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:26:42.828+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:42.827+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:43.075+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:43.083+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:43.083+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:26:43.093+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:43.092+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:26:43.106+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.294 seconds
+[2023-06-18T20:26:53.489+0200] {processor.py:156} INFO - Started process (PID=26883) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:53.489+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:26:53.490+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:53.490+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:53.730+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:26:53.737+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:53.736+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:26:53.746+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:26:53.746+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:26:53.768+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.282 seconds
+[2023-06-18T20:27:03.910+0200] {processor.py:156} INFO - Started process (PID=26894) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:03.910+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:27:03.911+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:03.911+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:04.174+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:04.181+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:04.181+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:27:04.189+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:04.189+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:27:04.213+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.305 seconds
+[2023-06-18T20:27:13.885+0200] {processor.py:156} INFO - Started process (PID=27379) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:13.886+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:27:13.887+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:13.886+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:14.144+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:14.152+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:14.152+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:27:14.161+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:14.161+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:27:14.183+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.301 seconds
+[2023-06-18T20:27:24.055+0200] {processor.py:156} INFO - Started process (PID=27390) to work on /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:24.056+0200] {processor.py:758} INFO - Processing file /home/rohan/airflow/dags/Project_Dag.py for tasks to queue
+[2023-06-18T20:27:24.057+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:24.056+0200] {dagbag.py:525} INFO - Filling up the DagBag from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:24.324+0200] {processor.py:768} INFO - DAG(s) dict_keys(['Rohan_dagOP']) retrieved from /home/rohan/airflow/dags/Project_Dag.py
+[2023-06-18T20:27:24.331+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:24.331+0200] {dag.py:2573} INFO - Sync 1 DAGs
+[2023-06-18T20:27:24.340+0200] {logging_mixin.py:117} INFO - [2023-06-18T20:27:24.340+0200] {dag.py:3324} INFO - Setting next_dagrun for Rohan_dagOP to None, run_after=None
+[2023-06-18T20:27:24.361+0200] {processor.py:178} INFO - Processing /home/rohan/airflow/dags/Project_Dag.py took 0.309 seconds
