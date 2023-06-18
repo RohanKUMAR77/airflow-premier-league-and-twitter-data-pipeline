@@ -11,4 +11,4 @@ this json looks like this (I didn't put mine for privacy) :
 
 
 Then you are ready to run your Dag named "ProjectBDD.py" on Airflow.
-This dag will scrapp latest tweets of every premier League clubs and also get statistics of every premier League Players.
+This dag will scrapp latest tweets of every premier League clubs and also get statistics of every Premier League Players.
