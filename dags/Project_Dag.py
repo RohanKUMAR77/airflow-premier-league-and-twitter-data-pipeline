@@ -6,7 +6,6 @@ from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType, TimestampType, FloatType
 import os
 from selenium.webdriver.common.keys import Keys
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from pyspark.sql.functions import col, udf, unix_timestamp, round
 import re
