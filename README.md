@@ -1,6 +1,6 @@
 # airflow
-BE CAREFUL TO MAKE THE DAG WORK YOU SHOULD UPLOAD YOUR JSON FILE IN THE FOLDER NAMED "Data" 
-this json looks like this (I didn't put mine for privacy) : 
+BE CAREFUL, TO MAKE THE DAG WORK, YOU SHOULD UPLOAD OWN YOUR JSON FILE IN THE FOLDER NAMED "Data" 
+this JSON file looks like this (I didn't put mine for privacy) : 
 
 {
   "username": "put_twitter_username",
