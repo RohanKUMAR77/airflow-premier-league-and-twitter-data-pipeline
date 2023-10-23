@@ -1,4 +1,4 @@
-This project will scrapp latest tweets of every premier League clubs and also get statistics of every Premier League Players on real time. 
+This project will scrapp latest tweets of every Premier League clubs and also get statistics of every Premier League Players on real time. 
 
 The only thing you need to make it work is a twitter account and subscribe to the rapidapi API of Premier League players (it is free). Read below for how to make the project work for you.
 
