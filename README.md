@@ -4,7 +4,7 @@ The only thing you need to make it work is a twitter account and subscribe to th
 
 
 YOU SHOULD UPLOAD YOUR OWN JSON FILE IN THE FOLDER "Data/Logins" ("Logins" folder should be created).
-THIS JSON FILE FOLLOWS THAT STRUCTURE BELOW : 
+This JSON file follows the structure bellow : 
 
 {
   "username": "twitter_account_username",
@@ -15,7 +15,7 @@ THIS JSON FILE FOLLOWS THAT STRUCTURE BELOW :
 
 
 
-NAME THE JSON FILE "LogPass.json".
+SAVE THE JSON FILE AS "LogPass.json".
 
 Then you are ready to run your Dag named "ProjectBDD.py" on Airflow 
 
