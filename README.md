@@ -15,6 +15,8 @@ This JSON file follows the structure bellow :
 
 
 
+
+
 SAVE THE JSON FILE AS "LogPass.json".
 
 Then you are ready to run your Dag named "ProjectBDD.py" on Airflow 
